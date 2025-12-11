@@ -114,7 +114,7 @@ export default function Footer() {
           </p>
           <p>
             <i className="bi bi-telephone-fill me-2"></i>
-            +91 --
+            +91 93026 16620
           </p>
         </div>
 

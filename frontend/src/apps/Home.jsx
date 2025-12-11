@@ -114,12 +114,6 @@ export default function Home() {
           and scalable web application architecture.
         </p>
 
-        {/* Buttons */}
-        <div className="hero-buttons">
-          <button onClick={scrollToProjects} className="btn-glow">
-            View My Projects ↓
-          </button>
-        </div>
       </div>
     </section>
   );

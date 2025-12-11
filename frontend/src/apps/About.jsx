@@ -72,10 +72,10 @@ export default function About() {
             <div className="mb-4">
               <h5 className="text-warning fw-semibold">💻 Tech Stack</h5>
               <ul className="opacity-75">
-                <li><strong className="text-warning">Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Redux</li>
+                <li><strong className="text-warning">Frontend:</strong> HTML, CSS, JavaScript, React.js</li>
                 <li><strong className="text-warning">Backend:</strong> Node.js, Express.js, REST API</li>
                 <li><strong className="text-warning">Database:</strong> MongoDB, MySQL</li>
-                <li><strong className="text-warning">Tools:</strong> Docker, CI/CD, Kubernetes, GitHub</li>
+                <li><strong className="text-warning">Tools:</strong>  GitHub</li>
               </ul>
             </div>
 
@@ -83,10 +83,8 @@ export default function About() {
             <div className="mb-4">
               <h5 className="text-warning fw-semibold">🔢 DSA (Data Structures & Algorithms)</h5>
               <p className="opacity-75 mb-0">
-                Solved <strong className="text-warning">150+ DSA questions</strong> across 
-                topics including arrays, strings, recursion, trees, graphs, and 
-                <strong className="text-warning"> dynamic programming</strong>.  
-                Regular problem-solving on LeetCode & GeeksforGeeks.
+                Solved <strong className="text-warning">50+ DSA questions</strong> across 
+                topics including arrays, strings, recursion. 
               </p>
             </div>
 
@@ -94,7 +92,7 @@ export default function About() {
             <div className="mb-4">
               <h5 className="text-warning fw-semibold">❤️ Hobbies</h5>
               <p className="opacity-75 mb-0">
-                🏏 Playing Cricket &nbsp; | &nbsp; 🌍 Traveling  
+              &nbsp; 🌍 Traveling  
               </p>
             </div>
 

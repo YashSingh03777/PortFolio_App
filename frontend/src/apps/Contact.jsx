@@ -31,7 +31,7 @@ export default function Contact() {
 
               <p className="mb-2">
                 <i className="bi bi-telephone-fill text-warning me-2"></i>
-                +91 ---
+                +91 93026 16620
               </p>
 
               <p className="mb-2">
